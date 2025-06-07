@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hello, world! I'm Mologadi
 
-<!--
-**Mologadi06/Mologadi06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Computer Science student  
+💻 Java, JavaScript, HTML  
+🚀 Aspiring developer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Fun Facts**
+- Debugging is my cardio
+- My “Hello, World!” is always a little extra
+- Semicolons: love them, hate them, use them anyway
+
+---
+
+```java
+public class Main {
+  public static void main(String[] args) {
+    System.out.println("Java, JavaScript, HTML");
+  }
+}
+```
+
+---
+
+_“Aspiring developer. Occasional bug whisperer. Always learning.”_
